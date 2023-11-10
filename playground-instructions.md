@@ -31,7 +31,7 @@ You can see the live version of the project at [http://emmet0r.github.io/graceha
 
 ### Find a task to work on
 
-- ***In pairs**, find a bug on the project's issue tracker that you would like to work on.
+- **In pairs**, find a bug on the project's issue tracker that you would like to work on.
 - Claim that bug! Leave a comment on the issue that says you're working on it. Whoever leaves the comment should tag their partner with their _\@‌githubhandle_.
 - Before you proceed, refresh the page and make sure no one else claimed the bug first, while you were reading and deciding...
 
