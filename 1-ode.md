@@ -27,7 +27,7 @@ Bridging gaps with each line of code they strew.
 
 "Merge conflicts" not a battle, but a chance to unite,  
 Resolving issues together, in the soft glow of night.  
-For in every error, a lesson is learned,  
+For in every error, a lesson is leaarned,  
 A shared journey, where every twist is earned.  
 
 Oh, the joy of contribution, in the open source dance,  
