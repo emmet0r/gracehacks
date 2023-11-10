@@ -4,6 +4,7 @@
 _Add your first name, GitHub handle, and a favorite emoji!_
 - Emily ([@emmet0r](https://github.com/emmet0r)) ⚡️
 - Neha ([@antsfly626](https://github.com/antsfly626)) :)
+- Hershey ([@Hershey-240](https://https://github.com/Hershey-240)) 😎
 
 ### Useful Links
 - [Sign up for GitHub Global Campus!](https://education.github.com/globalcampus/student)
