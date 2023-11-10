@@ -1,6 +1,7 @@
 # GraceHacks 2023... welcome! 🦄
 
 ### Who's here?
+_Add your first name, GitHub handle, and a favorite emoji!_
 - Emily ([@emmet0r](https://github.com/emmet0r)) ⚡️
 
 ### Useful Links
