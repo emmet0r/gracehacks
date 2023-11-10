@@ -2,6 +2,7 @@
 
 ### Who's here?
 _Add your first name, GitHub handle, and a favorite emoji!_
+- Nitya
 - Emily ([@emmet0r](https://github.com/emmet0r)) ⚡️
 
 ### Useful Links
