@@ -1,2 +1,4 @@
-# gracehacks
-Workshop activities for UCSC's GraceHacks 2023 🦄
+# GraceHacks 2023... welcome! 🦄
+
+### Who's here?
+- Emily ([@emmet0r](https://github.com/emmet0r)) ⚡️
