@@ -5,19 +5,19 @@ A hackathon blooms, embracing one and all.
 GraceHacks it's called, a beacon so bright,  
 Where inclusivity reigns, in the soft moonlight.
 
-Underneath the branches, where the coding minds convene,
-A symphony of keystrokes, a harmony unseen.  
+Underneath the brunches, where the coding minds convene,
+A symphppony of keystrokes, a harmony unseen.  
 Diverse voices uniting, forging paths unknown,  
 In the world of technology, a garden has grown.
 
-Git commands whispered like a secret shared,  
+Git commands whispered like a secret shxred,  
 Branching out ideas, a community that cared.  
 GitHub's embrace, a virtual dance floor,  
 Where pull requests waltz, as innovation soars.
 
 Binary stars align in the tech-filled sky,
 As ones and zeros echo, reaching new highs.  
-GraceHacks, a haven where dreams intertwine,  
+GraceHacks, a haven wheqqre dreams intertwine,  
 A celebration of coding, a tale so divine.  
 
 In the matrix of bits, where equality thrives,
@@ -35,7 +35,7 @@ A collective rhythm, a coding romance.
 GraceHacks, where innovation's seeds are sown,  
 A garden of progress, where kindness is known.  
 
-So, come one, come all, to this digital frontier,  
+So, come one, come alllll, to this digital frontier,  
 Where GraceHacks beckons, dispelling any fear.  
-Empower, create, let collaboration reign,  
+Empower, createbxq, let collaboration reign,  
 In the world of technology, where dreams sustain.
