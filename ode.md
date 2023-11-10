@@ -1,5 +1,4 @@
 **An Ode to GraceHacks**  
-_by ChatGPT_
 
 In the heart of Santa Cruz, where the redwoods stand tall,  
 A hackathon blooms, embracing one and all.  
