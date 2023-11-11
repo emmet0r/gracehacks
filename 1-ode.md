@@ -5,7 +5,7 @@ A hackathon blooms, embracing one and all.
 GraceHacks it's called, a beacon so bright,  
 Where inclusivity reigns, in the soft moonlight. 🌙
 
-Underneath the branches, where the coding minds convene,
+Underneath the brunches, where the coding minds convene, 💻 
 A symphony of keystrokes, a harmony unseen.  
 Diverse voices uniting, forging paths unknown,  
 In the world of technology, a garden has grown. 🌱
